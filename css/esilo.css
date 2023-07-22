@@ -1,0 +1,13 @@
+body{
+    background-color: ;
+}
+#navegar{
+    background-color: rgba(0, 0, 0, 0.566);
+    
+}
+li a{
+    color: red;
+}
+.card{
+    width: 18rem;
+}
